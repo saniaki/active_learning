@@ -11,7 +11,7 @@ The model performs sensor selection in composites processing. It particullary pr
 We are prediction the **best** location(s) to put the sensors.
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image01.jpg" width="700"/>  <br>
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image01.png" width="700"/>  <br>
 <br>
 <br>
 <br>
@@ -32,4 +32,4 @@ https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.htm
 This model is developed with support of <br>
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image02.png"/> 
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/sponsors.png"/> 
