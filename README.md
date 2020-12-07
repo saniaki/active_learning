@@ -27,7 +27,7 @@ https://scikit-optimize.github.io/stable/auto_examples/bayesian-optimization.htm
 https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html#skopt-gp-minimize
 
 
-**Acknowledgement**
+**Acknowledgement** <br>
 This model is developed with support of <br>
 <br>
 <p align="center">
