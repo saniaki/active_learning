@@ -16,7 +16,7 @@ We are prediction the **best** location(s) to put the sensors.
 <br>
 <br>
 
-For stochastic modelling of the processing, the proposed bootstrap filtering model is sued: <br>
+For stochastic modelling of the processing, the proposed bootstrap filtering model is used: <br>
 https://github.com/saniaki/stochastic_modelling
 
 The solver for generating data is a FEM model on thermochemical heat processing: \
