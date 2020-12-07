@@ -10,7 +10,11 @@ The model performs sensor selection in composites processing. It particullary pr
 
 We are prediction the **best** location(s) to put the sensors.
 
-
+ <br>
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image01.jpg" width="650"/>  
+<br>
+<br>
+<br>
 For stochastic modelling of the processing, the proposed bootstrap filtering model is sued: \
 https://github.com/saniaki/stochastic_modelling
 
