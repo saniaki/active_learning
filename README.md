@@ -24,3 +24,9 @@ For optimization, Scikit-Optimize, a sequential model-based optimization library
 https://scikit-optimize.github.io/stable/ \
 https://scikit-optimize.github.io/stable/auto_examples/bayesian-optimization.html \
 https://scikit-optimize.github.io/stable/modules/generated/skopt.gp_minimize.html#skopt-gp-minimize
+
+
+**Acknowledgement**
+This model is developed with support of
+
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image02.jpg" width="700"/> 
