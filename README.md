@@ -10,7 +10,7 @@ The model performs sensor selection in composites processing. It particullary pr
 
 We are prediction the **best** location(s) to put the sensors.
 <br>
-<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image01.jpg" width="900"/>  
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image01.jpg" width="700"/>  
 <br>
 <br>
 <br>
