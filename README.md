@@ -16,6 +16,15 @@ We are prediction the **best** location(s) to put the sensors.
 <br>
 <br>
 
+
+Predicted best location for the case of 2 available sensors for in processing of a 30 mm composite part on a 15 mm tool material
+<br>
+<p align="center">
+<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image02.png" width="700"/>  <br>
+<br>
+<br>
+<br>
+
 For stochastic modelling of the processing, the proposed bootstrap filtering model is used: <br>
 https://github.com/saniaki/stochastic_modelling
 
